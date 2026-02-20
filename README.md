@@ -29,6 +29,7 @@
 - PHP: Intermediário  
 - JavaScript: Básico/Intermediário  
 - MySQL: Básico  
-- HTML/CSS: Intermediário  
+- HTML/CSS: Intermediário
+- Python: Intermediário
 
 ---
