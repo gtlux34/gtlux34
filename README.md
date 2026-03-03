@@ -27,7 +27,8 @@
 ---
 
 ## 📈 Aprendizado atual
-- PHP: Intermediário  
+- PHP: Intermediário
+- Java: Básico 
 - JavaScript: Básico/Intermediário  
 - MySQL: Básico  
 - HTML/CSS: Intermediário
